@@ -1,4 +1,4 @@
-If for some reason you want to leave me a public message, you can do so in [this improvised guestbook](https://github.com/vthriller/vthriller/issues). (Yes, I am _that_ old: I remember websites with gustbooks!)
+If for some reason you want to leave me a public message, you can do so in [this improvised guestbook](https://github.com/vthriller/vthriller/issues). (Yes, I am _that_ old: I remember websites with guestbooks!)
 
 Here's what might interest you here:
 
