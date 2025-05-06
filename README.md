@@ -9,3 +9,4 @@ Here's what might interest you here:
 | [**base64-regex**: enables grep against base64-encoded data](https://github.com/vthriller/base64-regex) | [**rust-buf-ref-reader**](https://github.com/vthriller/rust-buf-ref-reader) | [**x11-mouse-trampoline**](https://github.com/vthriller/x11-mouse-trampoline) |
 | [primitive **stopwatch**](https://github.com/vthriller/stopwatch) | ~~[**hdd-rs**](https://github.com/vthriller/hdd-rs)~~ (you should probably use `smartctl --json` instead) | [**trac-data-table**](https://github.com/vthriller/trac-data-table) |
 | [clock solver for projects based on STM32F103x8 microcontrollers](https://github.com/vthriller/stm32f103x8-clock-solver) | | [experiments with **utf-p** encoding](https://github.com/vthriller/utf-p) |
+| [**ip-coalesce**](https://github.com/vthriller/ip-coalesce) | | |
